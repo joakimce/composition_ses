@@ -1,0 +1,9 @@
+Run GREML.bash to create scripts or run each .sh script for each phenotype.
+
+Scripts for bivariate analysis are labeled with included phenotypes.
+
+edu=education
+occ=occupation
+inc=income
+wea=wealth
+

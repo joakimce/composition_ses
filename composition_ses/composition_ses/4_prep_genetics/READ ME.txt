@@ -1,0 +1,8 @@
+Start off with log economic variables and linking phenos to genetic data.
+
+Then:
+1. Make .keep file
+2. Make grm
+3. Cut off of .025  relatedness
+4. Make sparse grm 
+5. 

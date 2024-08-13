@@ -1,0 +1,8 @@
+The R scripts in the find_phenos folder are meant to be run in colossus. 
+They have paths in the format of colossus scripts, e.g., "/ess/p805/data/durable/" instead of "N:/durable".
+
+
+Run the R scripts with the find_phenos.sh in bash on colossus to create pheno.csv files by:
+
+1. Type "cd /ess/p805/data/durable/projects/joakim/SES_composition/scripts/1_find_phenos/"
+2. Type "sbatch find_all_phenos.sh" for all phenotypes or run the .sh script for a specific phenotype
